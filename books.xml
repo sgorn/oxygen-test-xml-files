@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book>
-<title>Oxygen POC</title>
-<chapter>
+<book><title>Oxygen POC</title><chapter>
 <title>Introduction</title>
 <para>Hello Worldtesting here</para>
 <para>testing new tag</para>
-</chapter>
-</book>
+</chapter>test2</book>
